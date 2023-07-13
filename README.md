@@ -1,1 +1,2 @@
-# dnd-name-gen
+# DnD Character Name Generator
+Create your character's name with this generator, which was built following Andrej Karpathy [Neural Network: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) playlist.
